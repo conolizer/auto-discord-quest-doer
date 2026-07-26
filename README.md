@@ -1,5 +1,3 @@
-# auto-discord-quest-doer
-
 hi, too lazy to do discord quests? this is for you, just copy and paste it in ur devtools and let it do the stuff, code is all yours (this script is from someone else but it doesn't work anymore, so I updated it)
 
 ---
